@@ -35,8 +35,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=c0mpuTurtle&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=2E8B57&icon_color=2E8B57&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0mpuTurtle&layout=compact&theme=transparent&title_color=2E8B57&hide_border=true" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0mpuTurtle&theme=github_dark" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0mpuTurtle&theme=github_dark" />
 
 <img src="https://streak-stats.demolab.com?user=c0mpuTurtle&theme=transparent&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57&hide_border=true" />
 
