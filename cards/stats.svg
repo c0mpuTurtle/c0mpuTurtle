@@ -12,6 +12,6 @@
 <text x="200" y="131" font-size="15" font-weight="600" fill="#c9d1d9">117</text>
 <g transform="translate(30,147)"><path fill="#8b949e" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/></g>
 <text x="54" y="159" font-size="14" fill="#c9d1d9">Contributed to</text>
-<text x="200" y="159" font-size="15" font-weight="600" fill="#c9d1d9">5</text>
+<text x="200" y="159" font-size="15" font-weight="600" fill="#c9d1d9">7</text>
 <g transform="translate(275,105)"><circle r="38" fill="none" stroke="#58a6ff" stroke-width="3" opacity="0.9"/><text y="7" text-anchor="middle" font-size="20" fill="#58a6ff">&#x1F422;</text></g>
 </svg>
