@@ -30,7 +30,7 @@ base = gql("""query($login:String!){ user(login:$login){
   createdAt
   pullRequests{ totalCount }
   issues{ totalCount }
-  repositoriesContributedTo(contributionTypes:[COMMIT,ISSUE,PULL_REQUEST,REPOSITORY]){ totalCount }
+  repositoriesContributedTo(includeUserRepositories:true,contributionTypes:[COMMIT,ISSUE,PULL_REQUEST,REPOSITORY]){ totalCount }
 }}""", {"login": USER})["user"]
 
 YEAR_Q = """query($login:String!,$from:DateTime!,$to:DateTime!){ user(login:$login){
